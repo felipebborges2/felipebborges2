@@ -61,7 +61,7 @@ I enjoy creating **interactive and meaningful projects** — from dashboards and
 - **Machine Learning** and **Image Processing in Medical Applications**  
 - **Web Automation and Python Integration** (APIs, Dashboards)  
 - **DevOps basics** — CI/CD, Containers, and Deployment Pipelines  
-- **German 🇩🇪**
+- **German**
 
 ---
 
@@ -69,13 +69,13 @@ I enjoy creating **interactive and meaningful projects** — from dashboards and
 
 <p align="center">
   <a href="mailto:felipe.borges@ufcspa.edu.br">
-    <img src="https://img.shields.io/badge/Email-felipe.almeida@ufcspa.edu.br-%239b2242?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-felipe.borges@ufcspa.edu.br-%239b2242?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/felipebborges">
-    <img src="https://img.shields.io/badge/LinkedIn-Felipe%20Almeida-%239b2242?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Felipe%20Borges-%239b2242?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://felipebborges.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-lipe.vercel.app-%239b2242?style=flat-square&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-Felipe-%239b2242?style=flat-square&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
@@ -84,5 +84,4 @@ I enjoy creating **interactive and meaningful projects** — from dashboards and
 <p align="center">
   <em>“Turning science into code and ideas into impact.”</em>  
   <br/>
-  <img src="https://img.shields.io/badge/Made%20with%20❤️%20and%20Coffee-%239b2242?style=flat-square"/>
 </p>

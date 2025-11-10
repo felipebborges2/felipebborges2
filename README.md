@@ -36,17 +36,23 @@ I enjoy creating **interactive and meaningful projects** — from dashboards and
 
 ## 🧠 Featured Projects
 
-### 💰 **FinZeit**
-> A personal **finance management web app**, featuring income and expense tracking, recurring subscriptions, and customizable limits.  
-> **Stack:** TypeScript, React, Tailwind, Node.js  
-> **Status:** Actively developed  
-
+### 🌍 **Europedia**
+> A modern **travel discovery website** focused on European destinations — combining beautiful visuals, smooth navigation, and structured information about cities, landmarks, and culture.  
+> **Stack:** React, Vite, Tailwind, TypeScript  
+> **Goal:** Personal creative project designed to showcase UI/UX and frontend development skills  
 ---
 
 ### 🏀 **CourtView**
 > An interactive platform showcasing **NBA teams, arenas, and histories**, with animations and responsive design.  
 > **Stack:** React + Tailwind + Framer Motion  
 > **Goal:** Personal project focused on sports and user interface design  
+
+---
+
+### 💰 **FinZeit**
+> A personal **finance management web app**, featuring income and expense tracking, recurring subscriptions, and customizable limits.  
+> **Stack:** TypeScript, React, Tailwind, Node.js  
+> **Status:** Currently in development 
 
 ---
 

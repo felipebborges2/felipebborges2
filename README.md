@@ -28,13 +28,20 @@ I enjoy creating **interactive and meaningful projects** — from dashboards and
 
 | 💻 Frontend Development | ⚙️ Backend & Databases | 🧠 Data & AI | 🧩 Other Tools |
 |-------------------------|------------------------|--------------|----------------|
-| HTML • CSS • JavaScript • TypeScript • React • Next.js • Tailwind | Node.js • Express • MongoDB • MySQL • REST APIs | Python • Pandas • NumPy • Scikit-learn • TensorFlow (beginner) | Git • Docker • Figma • Markdown • LaTeX |
+| HTML • CSS • JavaScript • TypeScript • React • Next.js • Tailwind | Node.js • Express • MongoDB • MySQL • REST APIs | Python • Pandas • NumPy • | Git&GitHub • Figma • VSCode • LaTeX |
 
 </div>
 
 ---
 
 ## 🧠 Featured Projects
+
+### 💰 **FinZeit**
+> A personal **finance management web app**, featuring income and expense tracking, recurring subscriptions, and customizable limits.  
+> **Stack:** TypeScript, React, Tailwind, Next.js, MongoDB
+> **Status:** A clean full-stack finance dashboard categorized expenses and data visualizations.
+
+---
 
 ### 🌍 **Europedia**
 > A modern **travel discovery website** focused on European destinations — combining beautiful visuals, smooth navigation, and structured information about cities, landmarks, and culture.  
@@ -43,16 +50,9 @@ I enjoy creating **interactive and meaningful projects** — from dashboards and
 ---
 
 ### 🏀 **CourtView**
-> An interactive platform showcasing **NBA teams, arenas, and histories**, with animations and responsive design.  
+> An interactive platform showcasing **NBA teams, arenas, and histories**, with pictures and responsive design.  
 > **Stack:** React, Tailwind, Next.JS, TypeScript  
 > **Goal:** Personal project focused on sports and user interface design  
-
----
-
-### 💰 **FinZeit**
-> A personal **finance management web app**, featuring income and expense tracking, recurring subscriptions, and customizable limits.  
-> **Stack:** TypeScript, React, Tailwind, Next.js, MongoDB
-> **Status:** Currently in development 
 
 ---
 

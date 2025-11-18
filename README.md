@@ -28,7 +28,7 @@ I enjoy creating **interactive and meaningful projects** — from dashboards and
 
 | 💻 Frontend Development | ⚙️ Backend & Databases | 🧠 Data & AI | 🧩 Other Tools |
 |-------------------------|------------------------|--------------|----------------|
-| HTML • CSS • JavaScript • TypeScript • React • Next.js • Tailwind | Node.js • Express • MongoDB • MySQL • REST APIs • JWT | Python • Pandas • NumPy • Scikit-learn • TensorFlow (beginner) | Git • Docker • Figma • Markdown • LaTeX |
+| HTML • CSS • JavaScript • TypeScript • React • Next.js • Tailwind | Node.js • Express • MongoDB • MySQL • REST APIs | Python • Pandas • NumPy • Scikit-learn • TensorFlow (beginner) | Git • Docker • Figma • Markdown • LaTeX |
 
 </div>
 
@@ -38,20 +38,20 @@ I enjoy creating **interactive and meaningful projects** — from dashboards and
 
 ### 🌍 **Europedia**
 > A modern **travel discovery website** focused on European destinations — combining beautiful visuals, smooth navigation, and structured information about cities, landmarks, and culture.  
-> **Stack:** React, Vite, Tailwind, TypeScript  
+> **Stack:** JavaScript, HTML, CSS  
 > **Goal:** Personal creative project designed to showcase UI/UX and frontend development skills  
 ---
 
 ### 🏀 **CourtView**
 > An interactive platform showcasing **NBA teams, arenas, and histories**, with animations and responsive design.  
-> **Stack:** React + Tailwind + Framer Motion  
+> **Stack:** React, Tailwind, Next.JS, TypeScript  
 > **Goal:** Personal project focused on sports and user interface design  
 
 ---
 
 ### 💰 **FinZeit**
 > A personal **finance management web app**, featuring income and expense tracking, recurring subscriptions, and customizable limits.  
-> **Stack:** TypeScript, React, Tailwind, Node.js  
+> **Stack:** TypeScript, React, Tailwind, Next.js, MongoDB
 > **Status:** Currently in development 
 
 ---

@@ -50,7 +50,7 @@ I’m fluent in English, currently learning German, and can read and understand 
 
 ---
 
-🧭 **AtlasMind**
+### 🧭 **AtlasMind**
 > An **intelligent travel-planning** web app powered by AI. Users enter destination, dates, budget, travel style, and detailed preferences — and AtlasMind automatically generates a fully personalized itinerary with suggested activities, budget distribution, and daily scheduling tailored to the traveler’s profile.
 > 
 > **Stack:** TypeScript, React, Next.js, Tailwind, OpenAI API.

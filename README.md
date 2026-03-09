@@ -6,24 +6,30 @@ Author: Felipe Borges
 <h1 align="center">👋 Hello there!</h1>
 
 <p align="center">
-  <strong>🎓 Medical Physics Student & Full Stack Developer</strong><br/>
-  💻 Building <b>modern, fast and elegant</b> applications with Next.js, TypeScript and clean UI.<br/>
-  🚀 Passionate about <b>programming, data</b>, and <b>AI applied to healthcare</b>
+  <strong>🎓 AI & Python Developer | Medical Physics | Healthcare Technology </strong><br/>
+  I build intelligent systems and data-driven applications combining Artificial Intelligence, Python, and Medical Physics.
+
+🚀 Passionate about:
+- Machine Learning
+- AI for Healthcare
+- Data Science
+- Intelligent systems
 </p>
 
 ---
 
 ## 🎯 About Me
 
-I’m Felipe Borges, a 23-year-old Medical Physics student at UFCSPA — Federal University of Health Sciences of Porto Alegre.
 
-My background in Medical Physics strengthened my analytical thinking, problem-solving and scientific rigor — skills I now apply directly to software engineering. Over the past years, I’ve built full-stack products, dashboards, design systems and data-driven applications that combine clean UI, strong architecture and real-world functionality.
+I'm Felipe Borges, a Medical Physics student at **UFCSPA — Federal University of Health Sciences of Porto Alegre** and a developer focused on **Artificial Intelligence, Machine Learning, and healthcare technology**.
 
-Currently, I’m part of a research project focused on developing and validating a machine learning model based on MRI radiomic features to predict tumor progression in patients with acoustic neuroma under initial observation. In parallel, I’ve been expanding my technical expertise in JavaScript, React, Node.js, TypeScript, and AI integration.
+My background in physics provides a strong analytical and scientific foundation for building **data-driven systems and intelligent applications**.
 
-I learn fast, I enjoy working on challenging problems, and I’m motivated by building reliable, elegant and scalable digital solutions. I’m currently seeking a full-stack or frontend developer role where I can contribute, grow and work alongside a strong engineering team.
+Currently, I participate in a research project developing a **machine learning model based on MRI radiomic features to predict tumor progression in acoustic neuroma patients**.
 
-I’m fluent in English, currently learning German, and can read and understand Spanish.
+Alongside research, I develop software projects using **Python, TypeScript, React, and modern web technologies**, focusing on AI-powered tools and data platforms.
+
+I'm fluent in English, currently learning German, and able to read Spanish.
 
 ---
 
@@ -31,11 +37,28 @@ I’m fluent in English, currently learning German, and can read and understand 
 
 <div align="center">
 
-| 💻 Frontend Development | ⚙️ Backend & Databases | 🧠 Data & AI | 🧩 Other Tools |
-|-------------------------|------------------------|--------------|----------------|
-| HTML • CSS • JavaScript • TypeScript • React • Next.js • Tailwind | Node.js • Express • MongoDB • MySQL • REST APIs | Python • Pandas • NumPy  | Git&GitHub • Figma • VSCode • LaTeX |
+### 🧠 AI & Data
+Python • Pandas • NumPy • Scikit-learn • Machine Learning
+
+### ⚙ Backend
+Node.js • Express • REST APIs • MongoDB • MySQL
+
+### 🎨 Frontend
+React • Next.js • TypeScript • Tailwind • HTML • CSS
+
+### 🛠 Tools
+Git • GitHub • VSCode • Figma • LaTeX
 
 </div>
+
+---
+
+## 🚀 Current Focus
+
+- Artificial Intelligence applications for healthcare
+- Machine Learning models for medical data
+- AI-powered analytical platforms
+- Python development for scientific computing
 
 ---
 

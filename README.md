@@ -112,7 +112,7 @@ Git • GitHub • VSCode • Figma • LaTeX
 
 <p align="center">
   <a href="mailto:fisfelipeborges@gmail.com">
-    <img src="https://img.shields.io/badge/Email-felipe.borges@ufcspa.edu.br-%239b2242?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-fisfelipeborges@gmail.com-%239b2242?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/felipebborges">
     <img src="https://img.shields.io/badge/LinkedIn-Felipe%20Borges-%239b2242?style=flat-square&logo=linkedin&logoColor=white"/>

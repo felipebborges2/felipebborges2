@@ -29,7 +29,7 @@ Currently, I participate in a research project developing a **machine learning m
 
 Alongside research, I develop software projects using **Python, TypeScript, React, and modern web technologies**, focusing on AI-powered tools and data platforms.
 
-I'm fluent in English, currently learning German, and able to read Spanish.
+I'm fluent in English, currently learning German, and able to understand Spanish.
 
 ---
 

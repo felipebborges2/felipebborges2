@@ -26,9 +26,9 @@ Author: Felipe Borges
 
 ## About Me
 
-I'm a Medical Physics student at **UFCSPA — Federal University of Health Sciences of Porto Alegre**, focused on the intersection of **machine learning, clinical data, and healthcare technology**.
+I'm a Medical Physics student at **UFCSPA — Federal University of Health Sciences of Porto Alegre**, focused on the intersection of **machine learning, medical imaging, clinical data, and healthcare technology**.
 
-My physics background gives me a strong analytical foundation for building data-driven systems. I work across the full stack — from training and evaluating ML models to deploying web applications — with a primary focus on AI applied to medicine.
+My physics background gives me a strong analytical foundation for building data-driven systems. I work across the full stack — from training and evaluating ML models to deploying web applications — with a primary focus on AI applied to medicine, education, and data-driven products.
 
 Fluent in English · Learning German · Conversational Spanish.
 
@@ -36,8 +36,9 @@ Fluent in English · Learning German · Conversational Spanish.
 
 ## 🔬 Research
 
-**MRI Radiomic Features for Acoustic Neuroma Prognosis**  
-Active research project developing a machine learning model to predict tumor progression in acoustic neuroma patients using MRI-derived radiomic features. Work involves feature extraction from medical imaging, model selection, and clinical validation pipelines.
+**Generalization of Deep Learning Models for Polycystic Ovary Syndrome Detection in Ultrasound Images: A Multi-Dataset Evaluation with a Federated Learning Approach**  
+
+Current undergraduate thesis focused on evaluating the generalization capacity of deep learning models for **Polycystic Ovary Syndrome detection in ultrasound images**. The project investigates model performance across multiple datasets and explores federated learning as a privacy-preserving approach for medical imaging applications.
 
 *Affiliation: UFCSPA, Porto Alegre — BR*
 
@@ -52,6 +53,15 @@ Active research project developing a machine learning model to predict tumor pro
 
 **Stack:**
 `Python` `scikit-learn` `pandas` `NumPy` `SHAP` `Matplotlib` `joblib`
+
+---
+
+### 🧠 [SynapLab](https://github.com/felipebborges2/SynapLab)
+> Educational platform created for **Helyos AI Lab**, an initiative designed to teach programming and artificial intelligence to high school students through practical projects, learning paths, and hands-on activities.
+
+**Features:** student dashboard · lesson and activity management · project-based learning · teacher/admin area · programming and AI education
+
+**Stack:** `TypeScript` `Next.js` `React` `Tailwind CSS` `Node.js` `MongoDB`
 
 ---
 
@@ -73,13 +83,6 @@ Active research project developing a machine learning model to predict tumor pro
 > **Travel discovery website** focused on European destinations — structured content, smooth navigation, and clean visual design.
 
 **Stack:** `JavaScript` `HTML` `CSS`
-
----
-
-### 🏀 [CourtView](https://github.com/felipebborges2/CourtView)
-> Interactive platform showcasing **NBA teams, arenas, and histories** with responsive design.
-
-**Stack:** `React` `Next.js` `TypeScript` `Tailwind CSS`
 
 ---
 
@@ -116,7 +119,9 @@ Active research project developing a machine learning model to predict tumor pro
 
 ## 🌱 Currently Learning
 
-- Machine learning for medical image processing and radiomics
+- Deep learning for medical image processing
+- Federated learning and privacy-preserving AI in healthcare
+- Educational technology platforms for programming and AI learning
 - CI/CD pipelines, containers, and deployment workflows
 - Advanced Python for scientific computing and automation
 
